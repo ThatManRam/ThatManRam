@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on some games that would like a coder
 - 📫 How to reach me on instagram @Ramophobe
 
+The respitory is just used to store all my projects that I have done in the past.
 
