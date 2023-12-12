@@ -1,0 +1,1 @@
+when you run the main class it will first start off with a prompt asking you what you would like to do. you must type what you would like to do whether you want to view, sort, add, or delete.
